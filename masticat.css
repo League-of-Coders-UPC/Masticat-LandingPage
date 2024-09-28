@@ -93,7 +93,7 @@ header select {
   margin-top: 10px;
 }
 
-#hero button {
+#hero a {
   margin-top: 20px;
   padding: 10px 20px;
   background-color: #ffcf59;
@@ -103,6 +103,7 @@ header select {
   border: none;
   cursor: pointer;
   border-radius: 10px;
+  text-decoration: none;
 }
 
 #hero img {
